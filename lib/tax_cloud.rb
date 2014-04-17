@@ -1,6 +1,7 @@
 require 'savon'
 require 'i18n'
 require 'hash'
+require 'active_support'
 require 'active_support/core_ext'
 
 require 'tax_cloud/version'
